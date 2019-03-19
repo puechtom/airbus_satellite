@@ -4,8 +4,8 @@ Kaggle challenge: Airbus is excited to challenge Kagglers to build a model that 
 
 # U-Net architecture
 I used a well known segmentation network in order to detect ship in the sea. The network architecture is described below:
-![alt text]()
+![unet](https://raw.githubusercontent.com/puechtom/airbus_satellite/master/u-net-architecture.png)
 
 # Results
 From left to right, original images, ground truth mask and predicted mask by the network:
-![alt text]()
+![results](https://raw.githubusercontent.com/puechtom/airbus_satellite/master/results.png)
