@@ -1,4 +1,5 @@
 # Airbus Ship Detection Challenge
+Github Pages: https://puechtom.github.io/airbus_satellite/
 
 Kaggle challenge: Airbus is excited to challenge Kagglers to build a model that detects all ships in satellite images as quickly as possible. Can you find them even in imagery with clouds or haze? 
 
