@@ -1,1 +1,1 @@
-# airbus_satellite
+# Airbus Ship Detection Challenge
