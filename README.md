@@ -4,6 +4,7 @@ Kaggle competition: Airbus is excited to challenge Kagglers to build a model tha
 
 The dataset is composed of 208 162 images with a resolution of 768 by 768 pixels. The dataset is splitted into 192 556 training images and 15 606 testing images. Example of satellite images:
 ![images](https://raw.githubusercontent.com/puechtom/airbus_satellite/master/images.png)
+
 For training purpose, each training image has a corresponding segmentation mask. This mask will be used as ground truth for the network. The masks corresponding to the example images above:
 ![masks](https://raw.githubusercontent.com/puechtom/airbus_satellite/master/masks.png)
 
